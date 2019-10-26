@@ -48,6 +48,3 @@ class preprocess_text:
         sentence=preprocess_text.remove_whitespace(sentence)
 
         return sentence
-
-pre=preprocess_text()
-print(pre.prepro('I have a 3g phone/'))
