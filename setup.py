@@ -5,8 +5,8 @@ with open("README.md", 'r') as f:
 
 
 setup(
-  name = 'speak2writ',        
-  packages = ['speak2writ'],   #same as name
+  name = 'speak2write',        
+  packages = ['speak2write'],   #same as name
   version = '1.0',      
   license='MIT',        # https://help.github.com/articles/licensing-a-repository
   description = long_description,   # Give a short description about your library
